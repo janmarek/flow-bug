@@ -1,0 +1,7 @@
+{
+  "name": "flow-example",
+  "dependencies": {
+    "react": "^0.13.3"
+  },
+  "devDependencies": {}
+}
