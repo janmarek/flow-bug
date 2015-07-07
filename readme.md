@@ -20,7 +20,7 @@ Found 2 errors
 
 Which seems good to me.
 
-After npm install:
+After npm install (and flow stop, flow start):
 
 ```
 $ flow
